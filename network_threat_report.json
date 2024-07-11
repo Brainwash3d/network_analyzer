@@ -1,0 +1,78 @@
+[
+    {
+        "data": {
+            "ipAddress": "34.107.243.93",
+            "isPublic": true,
+            "ipVersion": 4,
+            "isWhitelisted": false,
+            "abuseConfidenceScore": 33,
+            "countryCode": "US",
+            "usageType": "Data Center/Web Hosting/Transit",
+            "isp": "Google LLC",
+            "domain": "google.com",
+            "hostnames": [
+                "93.243.107.34.bc.googleusercontent.com"
+            ],
+            "isTor": false,
+            "totalReports": 50,
+            "numDistinctUsers": 12,
+            "lastReportedAt": "2024-07-10T03:07:47+00:00"
+        }
+    },
+    {
+        "data": {
+            "ipAddress": "10.0.2.2",
+            "isPublic": false,
+            "ipVersion": 4,
+            "isWhitelisted": false,
+            "abuseConfidenceScore": 0,
+            "countryCode": null,
+            "usageType": "Reserved",
+            "isp": "Private IP Address LAN",
+            "domain": null,
+            "hostnames": [],
+            "isTor": false,
+            "totalReports": 2,
+            "numDistinctUsers": 2,
+            "lastReportedAt": "2024-06-13T14:46:14+00:00"
+        }
+    },
+    {
+        "data": {
+            "ipAddress": "140.82.114.26",
+            "isPublic": true,
+            "ipVersion": 4,
+            "isWhitelisted": false,
+            "abuseConfidenceScore": 0,
+            "countryCode": "US",
+            "usageType": "Data Center/Web Hosting/Transit",
+            "isp": "GitHub Inc.",
+            "domain": "github.com",
+            "hostnames": [
+                "lb-140-82-114-26-iad.github.com"
+            ],
+            "isTor": false,
+            "totalReports": 0,
+            "numDistinctUsers": 0,
+            "lastReportedAt": "2023-07-10T21:57:58+00:00"
+        }
+    },
+    {
+        "data": {
+            "ipAddress": "46.40.125.193",
+            "isPublic": true,
+            "ipVersion": 4,
+            "isWhitelisted": false,
+            "abuseConfidenceScore": 100,
+            "countryCode": "BG",
+            "usageType": "Fixed Line ISP",
+            "isp": "Bulsatcom EOOD",
+            "domain": "bulsat.com",
+            "hostnames": [],
+            "isTor": false,
+            "totalReports": 524,
+            "numDistinctUsers": 70,
+            "lastReportedAt": "2024-07-11T11:47:46+00:00"
+        }
+    }
+]
