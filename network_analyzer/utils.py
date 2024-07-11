@@ -9,7 +9,7 @@ def query_threat_intelligence(ip):
 
     headers = {
         'Accept': 'application/json',
-        'Key': '7610580cdbf58d483ded2e0c552bbfe072c3460ad184313a31a56b4d199833d049138089813bf37d'  
+        'Key': 'API_KEY'  
     }
 
     response = requests.request(method='GET', url=url, headers=headers, params=querystring)
